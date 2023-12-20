@@ -3,7 +3,7 @@ layout: pw40-project
 
 permalink: /:path/
 
-project_title: VolumeAXI
+project_title: Volume-AXI
 category: Segmentation / Classification / Landmarking
 presenter_location: Online
 
@@ -19,15 +19,17 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-VolumeAXI is an ambitious project aimed at developing an AI system capable of automatically explaining and interpreting different application from CBCT scans.
+Volume Analysis, eXplainability and Interpretability, Volume-AXI, is an explainability approach for classification of bone and teeth structural defects in CBCT scans gray-level images. We propose to develop interpretable AI algorithms to visualize diagnostic features in dental and craniofacial conditions. This work is built on neural network models in Python, specifically using the MONAI framework,
 
-The first clinical application of VolumeAXI is related to dentistry, on teeth impaction and the potential adjacent damages they could cause.
+The first clinical application of Volume-AXI is related to dentistry, aiming to identify the position of tooth impaction and damage to adjacent structures. 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-For the first clinical application: classification of the position, the adjacent damages and the Kurol Overlap with explainability and interpretability of the results.
+1. To create AI algorithms capable of visualizing diagnostic features in dental and craniofacial conditions using CBCT (Cone Beam Computed Tomography) scan gray-level images.
+2. To apply Volume-AXI in the field of dentistry, particularly in identifying the position of impacted teeth and evaluating potential damage to adjacent structures.
+3. To address the challenge of explainability in AI-driven image analysis, making the decision-making process of AI more transparent and understandable for clinicians.
 
 ## Approach and Plan
 
